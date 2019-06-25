@@ -1,0 +1,1 @@
+Save the file and open command prompt. cd in the directory of where your file is, so type "cd" + location, without the plus and quotations. Then type "python" + the name of your Python file, without the plus and quotations.
